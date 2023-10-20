@@ -1,6 +1,5 @@
 {
   "name": "RobotBank",
-  "projectId": "80cb9887-bb31-4366-9895-f5a30b30218e",
   "description": "Transactional Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -21,7 +20,6 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
-    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
